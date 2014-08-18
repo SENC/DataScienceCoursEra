@@ -1,0 +1,8 @@
+Configure GIT
+[1] Git config --global user.name SENC
+[2] Git config --global user.email "CS@Hotmail.com"
+
+connect GitHub
+[1] Git init
+[2] Git remote add origin https://github.com/SENC/Courseera.git
+
